@@ -1,6 +1,6 @@
 ## makeCacheMatrix: Creates a special object that allows us to store the matrix itself and
 ## its inverse. Expose set/get methods for the matrix and its inverse
-## cacheSolve: Manages the output of makeCacheMatrix by storing it inverse if 
+## cacheSolve: Manages the output of makeCacheMatrix by storing its inverse if 
 ## one doesn't exist already
 
 ## makeCacheMatrix: 
